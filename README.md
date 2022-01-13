@@ -1,5 +1,5 @@
 # haxball-extrapolation
-Haxball adlı web taraıcı oyununda '/extrapolation' adlı komutun sınırı 1000'e yükseltilmiş halidir. (Oyun bunu 200 ile sınırlamıştır.)
+Haxball adlı web tarayıcı oyununda '/extrapolation' adlı komutun sınırı 1000'e yükseltilmiş halidir. (Oyun bunu 200 ile sınırlamıştır.)
 
 
 Şimdi bunu nasıl kuracağımıza gelelim.
