@@ -10,7 +10,7 @@ Bu script bazı kullanıcıların chrome' unda çalışmayabilir. eğer çalış
 
 Sonrasında https://www.haxball.com/play girin ve nick yazılacak yerde bekleyin.
 
-Sonra sağ üstten eklentiye tıklayınız ve 'haxball extrapolation' adlı files teki kodları oraya yapıştırıp save diyiniz. Bunu yaptıktan sonra oyun sayfaya f5 atacaktır. 
+Sonra sağ üstten eklentiye tıklayınız ve 'extrapolation' adlı files teki kodları oraya yapıştırıp save diyiniz. Bunu yaptıktan sonra oyun sayfaya f5 atacaktır. 
 
 Sonra herhangi odaya girip komutu (örnek: /extrapolation 300) yazın chate, ve oyunun keyfini çıkarın!
 
